@@ -12,9 +12,8 @@ Logic Type: Behavioral Verilog modeling for efficient pixel-stream processing.
 
 Verification: Validated using a custom testbench that loads image data and outputs a processed edge-magnitude matrix.
 
-Here are the results of an image of an elk
+                                           Here are the results of an image of an elk
     
 <img width="990" height="556" alt="Screenshot 2026-02-21 122920" src="https://github.com/user-attachments/assets/6ebcd3c8-88c4-4164-b6f8-20ea8301d257" />
-    
-<img width="1043" height="582" alt="image" src="https://github.com/user-attachments/assets/bb11c499-b1ec-44c0-aa94-18481278b87d" />
-    
+                                                                  original Image
+<img width="1043" height="582" alt="image" src="https://github.com/user-attachments/assets/bb11c499-b1ec-44c0-aa94-18481278b87d" />                                                                                                         Vivado Output
