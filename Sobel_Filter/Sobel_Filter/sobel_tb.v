@@ -23,7 +23,7 @@ module tb_sobel();
     );
 
     always #5 clk = ~clk;
-
+ 
     initial begin
         clk = 0; rst_n = 0;
         
